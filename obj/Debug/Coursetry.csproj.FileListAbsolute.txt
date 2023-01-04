@@ -1,0 +1,8 @@
+C:\Users\Douglas\source\repos\projeto1\Coursetry\bin\Debug\Coursetry.exe.config
+C:\Users\Douglas\source\repos\projeto1\Coursetry\bin\Debug\Coursetry.exe
+C:\Users\Douglas\source\repos\projeto1\Coursetry\bin\Debug\Coursetry.pdb
+C:\Users\Douglas\source\repos\projeto1\Coursetry\obj\Debug\Coursetry.csproj.AssemblyReference.cache
+C:\Users\Douglas\source\repos\projeto1\Coursetry\obj\Debug\Coursetry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\source\repos\projeto1\Coursetry\obj\Debug\Coursetry.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\projeto1\Coursetry\obj\Debug\Coursetry.exe
+C:\Users\Douglas\source\repos\projeto1\Coursetry\obj\Debug\Coursetry.pdb
